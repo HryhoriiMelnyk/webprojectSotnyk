@@ -1,3 +1,7 @@
-@import url(global.css)
-@import url(header.css)
+@import url(global.css);
+@import url(header.css);
+@import url(about_us.css);
+@import url(key_feature.css);
+@import url(detalis_specification.css);
+@import url(footer.css);
 
